@@ -25,10 +25,10 @@
     "@ethereumjs/tx": "5.4.0",
     "@ethereumjs/util": "9.1.0",
     "@ethereumjs/vm": "8.1.0",
-    "@remix-project/remix-astwalker": "^0.0.86",
+    "@remix-project/remix-astwalker": "^0.0.99",
     "@remix-project/remix-lib": "^0.5.63",
     "async": "^2.6.2",
-    "ethers": "^5.4.2",
+    "ethers": "^6.0.0",
     "ethjs-util": "^0.1.6",
     "string-similarity": "^4.0.4",
     "web3": "^4.1.1"
